@@ -1,0 +1,3 @@
+aiohttp==2.3.6
+aiomysql==0.0.11
+SQLAlchemy==1.1.15
